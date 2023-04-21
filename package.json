@@ -79,7 +79,7 @@
     "url": "https://github.com/PanJiaChen/vue-element-admin/issues"
   },
   "engines": {
-    "node": ">=8.9",
+    "node": ">=16",
     "npm": ">= 3.0.0"
   },
   "eslintConfig": {
@@ -96,7 +96,6 @@
     "management-system"
   ],
   "license": "MIT",
-
   "repository": {
     "type": "git",
     "url": "git+https://github.com/PanJiaChen/vue-element-admin.git"
